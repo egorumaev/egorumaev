@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <tr>
   <td>1</td>
   <td><a href = "https://github.com/egorumaev/2023-cirrhosis_outcomes">«Прогнозирование исхода лечения цирроза печени – Prediction of Cirrhosis Outcomes»</a> (Kaggle)</td>
-  <td>прогнозирование исхода лечения пациентов с циррозом печени  (задача мультиклассификации)</td>
+  <td>предсказание вероятности исхода лечения пациентов с циррозом печени  (задача мультиклассификации)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Missingno, Dataprep, Phik, Sklearn, Imblearn, Catboost, XGBoost</td>
   <td>PCA (Principal component analysis), LDA (Linear Discriminant Analysis), t-SNE (T-distributed Stochastic Neighbor Embedding), Feature Engineering, Polynomial Features, Pipeline, SMOTE, ADASYN, RandomUnderSampling, SMOTETomek</td>
 </tr>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <tr>
   <td>2</td>
   <td><a href = "https://github.com/egorumaev/2023-ods-turnstiles">«Турникеты»</a> (Open Data Science)</td>
-  <td>на основе накопленных данных идентифицировать посетителя в зависимости от характерного времени его прохода на территорию организации, исключив вероятность передачи пропуска одним сотрудником другому (задача мультиклассификации).</td>
+  <td>на основе накопленных данных идентифицировать посетителя в зависимости от характерного времени его прохода на территорию организации, исключив вероятность передачи пропуска одним сотрудником другому (задача мультиклассификации)</td>
   <td>Pandas, Numpy, Random, Matplotlib, Seaborn, Datetime, Sklearn, Imblearn, CatBoost</td>
   <td>Feature Engineering, Polynomial Features, SelektKBest, GridSearchCV, RandomizedSearchCV, Pipeline, OneVsRestClassifier, confusion_matrix</td>
 </tr>
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <tr>
   <td>3</td>
   <td><a href = "https://github.com/egorumaev/2023-steel-energy">«Разработка модели машинного обучения для предсказания температуры стали для оптимизации производственных расходов металлургического комбината „Так закаляем сталь‟»</a> (Яндекс.Практикум)</td>
-  <td>разработка модели машинного обучения, предсказывающей температуру стали, выплавляемой на металлургическом комбинате «Так закаляем сталь» (задача регрессии).</td>
+  <td>разработка модели машинного обучения, предсказывающей температуру стали, выплавляемой на металлургическом комбинате «Так закаляем сталь» (задача регрессии)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, DateTime, Phik, Sklearn, Imblearn, Feature_Engine, Catboost, Xgboost, Lightgbm</td>
   <td>Pipeline, Feature Engineering, RandomizedSearchCV, PolynomialFeatures, MinMaxScaler, DropCorrelatedFeatures, SelektKBest, VotingRegressor, background_gradient</td>
 </tr>
