@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## **РЕЗЮМЕ**
+
+* [Резюме](https://github.com/egorumaev/cv-egorumaev/blob/main/CV_Egor_Yumaev.pdf "Ссылка на резюме")
+
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА</font>**
 
 * ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://disk.yandex.ru/i/oAYRySfPbaCbkg "Ссылка на диплом")/[ENG](https://disk.yandex.ru/i/dUC2QludvKdzeQ "Ссылка на диплом"). 2022-2023
@@ -42,7 +46,7 @@ Here are some ideas to get you started:
 |:-----|:-----|:-----|:-----|:-----|
 | **Python 3** | **Jupiter Notebook** | **SQL** | **Git** | **Pandas** |
 | **Numpy** | **SciPy** | **Scikit-learn** | **Catboost** | **LightGBM** |
-| **XGBoost** | **Matplotlib** | **Seaborn** | **Plotly** |   |
+| **XGBoost** | **Matplotlib** | **Seaborn** |  |   |
 
 ---
 
@@ -59,10 +63,10 @@ Here are some ideas to get you started:
 
 <tr>
   <td>1</td>
-  <td><a href = "https://github.com/egorumaev/2023-cirrhosis_outcomes">«Прогнозирование исхода лечения цирроза печени – Prediction of Cirrhosis Outcomes»</a> (Kaggle)</td>
+  <td><a href = "https://github.com/egorumaev/2023-cirrhosis-outcomes">«Прогнозирование исхода лечения цирроза печени – Prediction of Cirrhosis Outcomes»</a> (Kaggle)</td>
   <td>предсказание вероятности исхода лечения пациентов с циррозом печени  (задача мультиклассификации)</td>
-  <td>Pandas, Numpy, Matplotlib, Seaborn, Missingno, Dataprep, Phik, Sklearn, Imblearn, Catboost, XGBoost</td>
-  <td>PCA (Principal component analysis), LDA (Linear Discriminant Analysis), t-SNE (T-distributed Stochastic Neighbor Embedding), Feature Engineering, Polynomial Features, Pipeline, SMOTE, ADASYN, RandomUnderSampling, SMOTETomek</td>
+  <td>Pandas, Numpy, Matplotlib, Seaborn, Missingno, Dataprep, Phik, Category_encoders, Sklearn, Imblearn, Catboost, XGBoost</td>
+  <td>IQR (Interquartile Range), PCA (Principal component analysis), LDA (Linear Discriminant Analysis), t-SNE (T-distributed Stochastic Neighbor Embedding), Feature Engineering, Polynomial Features, Pipeline, VarianceThreshold, SMOTETomek</td>
 </tr>
 
 <tr>
