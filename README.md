@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 ## **РЕЗЮМЕ**
 
-* [Резюме](https://github.com/egorumaev/cv-egorumaev/blob/main/CV_Egor_Yumaev.pdf "Ссылка на резюме")
+<table>
+
+<tr>
+  <td><a href = "https://github.com/egorumaev/cv-egorumaev/blob/main/CV_Egor_Yumaev.pdf">Резюме</a> (Kaggle)</td>
+  <td>![](https://github.com/egorumaev/cv-egorumaev/blob/main/2024_picture.jpg)</td>
+</tr>
+
+</table>
+
+---
 
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА</font>**
 
@@ -44,9 +53,11 @@ Here are some ideas to get you started:
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
-| **Python 3** | **Jupiter Notebook** | **SQL** | **Git** | **Pandas** |
-| **Numpy** | **SciPy** | **Scikit-learn** | **Catboost** | **LightGBM** |
-| **XGBoost** | **Matplotlib** | **Seaborn** |  |   |
+| **Python 3** | **Git**| **Jupiter Notebook** | **PostgreSQL** | **MySQL** | 
+| **SQLite** | **Redash** | **Pandas** | **Numpy** | **SciPy** |
+
+| **Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** | **Matplotlib** |
+| **Seaborn** |   |   |   |   |
 
 ---
 
@@ -63,6 +74,14 @@ Here are some ideas to get you started:
 
 <tr>
   <td>1</td>
+  <td><a href = "https://github.com/egorumaev/2024-colab-sqlite-postgresql">«SQLite & PostgreSQL. Анализ данных в Google Colab»</a> (Kaggle)</td>
+  <td>провести анализ данных с помощью SQLite и PostgreSQL в Google Colab</td>
+  <td>Sqlite3, SQLAlchemy, Pandas, Missingno, Matplotlib</td>
+  <td>SQLite, PostgreSQL, ElephantSQL, оконные функции, Goodle Colab, Google Drive</td>
+</tr>
+
+<tr>
+  <td>2</td>
   <td><a href = "https://github.com/egorumaev/2023-cirrhosis-outcomes">«Прогнозирование исхода лечения цирроза печени – Prediction of Cirrhosis Outcomes»</a> (Kaggle)</td>
   <td>предсказание вероятности исхода лечения пациентов с циррозом печени  (задача мультиклассификации)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Missingno, Dataprep, Phik, Category_encoders, Sklearn, Imblearn, Catboost, XGBoost</td>
@@ -70,7 +89,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>2</td>
+  <td>3</td>
   <td><a href = "https://github.com/egorumaev/2023-ods-turnstiles">«Турникеты»</a> (Open Data Science)</td>
   <td>на основе накопленных данных идентифицировать посетителя в зависимости от характерного времени его прохода на территорию организации, исключив вероятность передачи пропуска одним сотрудником другому (задача мультиклассификации)</td>
   <td>Pandas, Numpy, Random, Matplotlib, Seaborn, Datetime, Sklearn, Imblearn, CatBoost</td>
@@ -78,7 +97,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>3</td>
+  <td>4</td>
   <td><a href = "https://github.com/egorumaev/2023-steel-energy">«Разработка модели машинного обучения для предсказания температуры стали для оптимизации производственных расходов металлургического комбината „Так закаляем сталь‟»</a> (Яндекс.Практикум)</td>
   <td>разработка модели машинного обучения, предсказывающей температуру стали, выплавляемой на металлургическом комбинате «Так закаляем сталь» (задача регрессии)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, DateTime, Phik, Sklearn, Imblearn, Feature_Engine, Catboost, Xgboost, Lightgbm</td>
@@ -86,7 +105,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>4</td>
+  <td>5</td>
   <td><a href = "https://github.com/egorumaev/2023-telekom-customers-churn">«Разработка модели машинного обучения для прогнозирования оттока клиентов оператора связи „Ниединогоразрыва.ком‟»</a> (Яндекс.Практикум)</td>
   <td>разработка модели машинного обучения, прогнозирующей возможный отток клиентов (задача классификации)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Skimpy, Datetime, ydata-profiling, Psutil, Phik, Sklearn, Imblearn, Catboost, Xgboost, LightGBM</td>
@@ -94,7 +113,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>5</td>
+  <td>6</td>
   <td><a href = "https://github.com/egorumaev/2023-determining-customers-age">«Определение возраста покупателей»</a> (Яндекс.Практикум)</td>
   <td>построение модели, которая по фотографии определит приблизительный возраст человека (задача регрессии для Computer Vision)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, PIL, Tensorflow, Keras</td>
@@ -102,7 +121,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>6</td>
+  <td>7</td>
   <td><a href = "https://github.com/egorumaev/2023-toxic-comments">«Выявление токсичных комментариев в отзывах покупателей интернет-магазина „Викишоп‟»</a> (Яндекс.Практикум)</td>
   <td>построение модели классификации комментариев пользователей на позитивные и негативные (задача классификации для Natural Language Processing / NLP)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Autocorrect, Contractions, Gc, Collections, Re, NLTK, Sklearn, Catboost</td>
@@ -110,7 +129,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>7</td>
+  <td>8</td>
   <td><a href = "https://github.com/egorumaev/2023-text-tonality">Задача «Классификация тональности текста»</a> (Яндекс.Практикум)</td>
   <td>обучение логистической регрессии для определения тональности текста (задача классификации для Natural Language Processing / NLP)</td>
   <td>Pandas, NLTK, Sklearn</td>
@@ -118,7 +137,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>8</td>
+  <td>9</td>
   <td><a href = "https://github.com/egorumaev/2023-taxi-orders">«Прогнозирование количества заказов такси на следующий час для компании „Чётенькое такси‟»</a> (Яндекс.Практикум)</td>
   <td>построение модели, предсказывающей количество заказов такси на следующий час (задача регрессии для Time Series)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Sklearn, Catboost, LightGBM</td>
@@ -126,7 +145,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>9</td>
+  <td>10</td>
   <td><a href = "https://github.com/egorumaev/2023-cost-of-the-car">«Определение рыночной стоимости автомобилей»</a> (Яндекс.Практикум)</td>
   <td>разработка модели машинного обучения, предсказывающей рыночную стоимость автомобиля (задача регрессии)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Joypy, Skimpy, Datetime, Sklearn, Feature-engine, Catboost, LightGBM</td>
@@ -134,7 +153,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>10</td>
+  <td>11</td>
   <td><a href = "https://github.com/egorumaev/2022-personal-data-protection">«Защита персональных данных клиентов страховой компании „Хоть потоп‟»</a> (Яндекс.Практикум)</td>
   <td>разработка метода преобразования данных, гарантирующего одновременно невозможность восстановления персональной информации и высокое качество моделей машинного обучения, использующих обезличенные персональные данные</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Phik, Sklearn</td>
@@ -142,7 +161,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>11</td>
+  <td>12</td>
   <td><a href = "https://github.com/egorumaev/2022-gold-recovery-prediction">«Разработка модели, предсказывающей коэффициент восстановления золота из золотодобывающей руды для группы компаний „Цифра‟»</a> (Яндекс.Практикум)</td>
   <td>подготовка прототипа модели машинного обучения, предсказывающей коэффициент восстановления золота из золотосодержащей руды (задача регрессии)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Torchmetrics, Joypy, Sklearn</td>
@@ -150,7 +169,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>12</td>
+  <td>13</td>
   <td><a href = "https://github.com/egorumaev/2022-location-oil-well">«Поиск локации для скважины для ПАО „ГлавРосГосНефть‟»</a> (Яндекс.Практикум)</td>
   <td>определение региона, где добыча нефти принесёт наибольшую прибыль (задача регрессии)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Phik, Sklearn</td>
@@ -158,7 +177,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>13</td>
+  <td>14</td>
   <td><a href = "https://github.com/egorumaev/2022-bank-customers-churn">«Предсказание оттока клиентов из банка»</a> (Яндекс.Практикум)</td>
   <td>построение модели машинного обучения, предсказывающей отток клиентов из банка (задача классификации)</td>
   <td>Pandas, Numpy, Random, Matplotlib, Seaborn, Skimpy, Imbalanced-learn, Phik, Collections, Tqdm, Sklearn</td>
@@ -166,7 +185,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>14</td>
+  <td>15</td>
   <td><a href = "https://github.com/egorumaev/2022-telekom-tarif-recomendation">«Рекомендация тарифов»</a> (Яндекс.Практикум)</td>
   <td>на основе данных о поведении клиентов оператора мобильной связи 'Мегалайн', уже перешедших на новые тарифы 'Smart' и 'Ultra', построить модель для классификации пользователей в зависимости от используемого ими тарифа (задача классификации)</td>
   <td>Pandas, Numpy, Matplotlib, Seaborn, Tqdm, Sklearn</td>
@@ -174,7 +193,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>15</td>
+  <td>16</td>
   <td><a href = "https://github.com/egorumaev/2022-computer-games-sales">«Интернет-магазин „Стримчик‟»</a> (Яндекс.Практикум)</td>
   <td>на основе исследования информации из открытых источников выявить факторы и закономерности, определяющие успех выпуска компьютерной игры при планировании вывода на рынок новой компьютерной игры и оптимизации бюджета рекламной компании</td>
   <td>Pandas, Numpy, Random, Matplotlib, Seaborn, Scipy</td>
@@ -182,7 +201,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>16</td>
+  <td>17</td>
   <td><a href = "https://github.com/egorumaev/2022-realty-spb">«Исследование объявлений о продаже квартир в Санкт-Петербурге и Ленинградской области»</a> (Яндекс.Практикум)</td>
   <td>проведение исследовательского анализа данных датасета с объявлениями о продаже квартир</td>
   <td>Pandas, Numpy, Random, Matplotlib, Seaborn</td>
