@@ -48,9 +48,8 @@ Here are some ideas to get you started:
 |:-----|:-----|:-----|:-----|:-----|
 | **Python 3** | **Git**| **Jupiter Notebook** | **PostgreSQL** | **MySQL** | 
 | **SQLite** | **Redash** | **Pandas** | **Numpy** | **SciPy** |
-
 | **Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** | **Matplotlib** |
-| **Seaborn** |   |   |   |   |
+| **Seaborn** |
 
 ---
 
