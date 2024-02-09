@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <tr>
   <td>1</td>
-  <td><a href = "https://github.com/egorumaev/2024-colab-sqlite-postgresql">«SQLite & PostgreSQL. Анализ данных в Google Colab»</a> (Kaggle)</td>
+  <td><a href = "https://github.com/egorumaev/2024-colab-sqlite-postgresql">«SQLite & PostgreSQL. Анализ данных в Google Colab»</a></td>
   <td>провести анализ данных с помощью SQLite и PostgreSQL в Google Colab</td>
   <td>Sqlite3, SQLAlchemy, Pandas, Missingno, Matplotlib</td>
   <td>SQLite, PostgreSQL, ElephantSQL, оконные функции, Goodle Colab, Google Drive</td>
