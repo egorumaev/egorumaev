@@ -22,23 +22,21 @@ Here are some ideas to get you started:
 
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА</font>**
 
-* ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://disk.yandex.ru/i/oAYRySfPbaCbkg "Ссылка на диплом")/[ENG](https://disk.yandex.ru/i/dUC2QludvKdzeQ "Ссылка на диплом"). 2022-2023
+* ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20RU.pdf "Ссылка на диплом")/[ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20ENG.pdf "Ссылка на диплом"). 2022-2023
 
 ---
 
 ## **КУРСЫ**
 
-* ["Математика для анализа данных"](https://practicum.yandex.ru/math-for-da-ds/?from=catalog "Программа курса") (Яндекс.Практикум, Москва, Россия). Прогресс по курсу 93%: [RU](https://disk.yandex.ru/i/GcZYhvNUGYhHFw "Ссылка на прогресс по курсу"). 2023
+* ["Математика для анализа данных"](https://practicum.yandex.ru/math-for-da-ds/?from=catalog "Программа курса") (Яндекс.Практикум, Москва, Россия). Свидетельство: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2024%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf "Ссылка на свидетельство") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2024%20Math%20for%20DA%20and%20DS.pdf "Ссылка на свидетельство"). 2023-2024
 
-* ["Python: des fondamentaux aux concepts avancés du langage"](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/ "Программа курса") (Université Côte d'Azur, Ницца, Франция). Open badge: [FR](https://disk.yandex.ru/i/oxPp8ihXlt3thw "Ссылка на Open Badge"). 2023
+* ["Python: des fondamentaux aux concepts avancés du langage"](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/ "Программа курса") (Université Côte d'Azur, Ницца, Франция). Open badge: [FR](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20Python%20Cote-d-Azure.pdf "Ссылка на Open Badge"). 2023
 
-* ["Machine learning in Python with scikit-learn"](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ "Программа курса") (French national research institute for digital science and technology (INRIA), Париж, Франция). Open badge: [ENG](https://disk.yandex.ru/i/9jLNgAqOtsQiOw "Ссылка на Open Badge"). 2023
+* ["Machine learning in Python with scikit-learn"](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ "Программа курса") (French national research institute for digital science and technology (INRIA), Париж, Франция). Open badge: [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20INRIA%20ML%20Python%20sklearn.pdf "Ссылка на Open Badge"). 2023
 
-* ["Основы математики для цифровых профессий"](https://practicum.yandex.ru/math-foundations/?from=catalog "Программа курса") (Яндекс.Практикум, Москва, Россия). Прогресс по курсу 100%: [RU](https://disk.yandex.ru/i/M8A49G4cc0Zgyg "Ссылка на прогресс по курсу"). 2023
+* ["Data Science с Глебом Михайловым"](https://stepik.org/113596 "Программа курса") (STEPIK). Сертификат: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D1%81%20%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%BC%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%8B%D0%BC.pdf "Ссылка на сертификат"). 2023 
 
-* ["Data Science с Глебом Михайловым"](https://stepik.org/113596 "Программа курса") (STEPIK). Сертификат: [RU](https://disk.yandex.ru/i/lLjiARKQFBpo5g "Ссылка на сертификат"). 2023 
-
-* ["Введение в Data Science и машинное обучение"](https://stepik.org/4852 "Программа курса") (STEPIK). Сертификат: [RU](https://disk.yandex.ru/i/la4EUlyApZrjWQ "Ссылка на сертификат"). 2023
+* ["Введение в Data Science и машинное обучение"](https://stepik.org/4852 "Программа курса") (STEPIK). Сертификат: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Stepik%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20DS%20%D0%B8%20ML.pdf "Ссылка на сертификат"). 2023
 
 ---
 
@@ -47,9 +45,9 @@ Here are some ideas to get you started:
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
 | **Python 3** | **Git**| **Jupiter Notebook** | **PostgreSQL** | **MySQL** | 
-| **SQLite** | **Redash** | **Pandas** | **Numpy** | **SciPy** |
-| **Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** | **Matplotlib** |
-| **Seaborn** |
+| **SQLite** | **DataLens** | **Redash** | **Pandas** | **Numpy** |
+| **SciPy** | **Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** |
+| **Matplotlib** | **Seaborn** |   |   |   |
 
 ---
 
@@ -69,7 +67,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/egorumaev/2024-colab-sqlite-postgresql">«SQLite & PostgreSQL. Анализ данных в Google Colab»</a></td>
   <td>провести анализ данных с помощью SQLite и PostgreSQL в Google Colab</td>
   <td>Sqlite3, SQLAlchemy, Pandas, Missingno, Matplotlib</td>
-  <td>SQLite, PostgreSQL, ElephantSQL, оконные функции, Goodle Colab, Google Drive</td>
+  <td>SQLite, PostgreSQL, ElephantSQL, оконные функции, Google Colab, Google Drive</td>
 </tr>
 
 <tr>
