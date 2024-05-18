@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА</font>**
 
-* ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20RU.pdf "Ссылка на диплом")/[ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20ENG.pdf "Ссылка на диплом"). 2022-2023
+* ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20RU.pdf "Ссылка на диплом") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20ENG.pdf "Ссылка на диплом"). 2022-2023
 
 ---
 
@@ -32,11 +32,15 @@ Here are some ideas to get you started:
 
 * ["Python: des fondamentaux aux concepts avancés du langage"](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/ "Программа курса") (Université Côte d'Azur, Ницца, Франция). Open badge: [FR](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20Python%20Cote-d-Azure.pdf "Ссылка на Open Badge"). 2023
 
-* ["Machine learning in Python with scikit-learn"](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ "Программа курса") (French national research institute for digital science and technology (INRIA), Париж, Франция). Open badge: [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20INRIA%20ML%20Python%20sklearn.pdf "Ссылка на Open Badge"). 2023
+* ["Machine learning in Python with scikit-learn"](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ "Программа курса") (French National Research Institute for Digital Science and Technology (INRIA), Париж, Франция). Open badge: [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20INRIA%20ML%20Python%20sklearn.pdf "Ссылка на Open Badge"). 2023
 
 * ["Data Science с Глебом Михайловым"](https://stepik.org/113596 "Программа курса") (STEPIK). Сертификат: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D1%81%20%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%BC%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%8B%D0%BC.pdf "Ссылка на сертификат"). 2023 
 
 * ["Введение в Data Science и машинное обучение"](https://stepik.org/4852 "Программа курса") (STEPIK). Сертификат: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Stepik%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20DS%20%D0%B8%20ML.pdf "Ссылка на сертификат"). 2023
+
+---
+
+["Курсы, пройденные на портале STEPIK"](https://stepik.org/users/553414073/profile "Ссылка на личный профиль на сайте stepik.org")
 
 ---
 
@@ -47,7 +51,7 @@ Here are some ideas to get you started:
 | **Python 3** | **Git**| **Jupiter Notebook** | **PostgreSQL** | **MySQL** | 
 | **SQLite** | **DataLens** | **Redash** | **Pandas** | **Numpy** |
 | **SciPy** | **Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** |
-| **Matplotlib** | **Seaborn** |   |   |   |
+| **Matplotlib** | **Seaborn** | **A/B-тесты** |  |  |
 
 ---
 
