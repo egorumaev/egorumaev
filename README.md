@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
-| **Python 3** | **Git**| **Jupiter Notebook** | **PostgreSQL** | **MySQL** | 
-| **SQLite** | **DataLens** | **Redash** | **Pandas** | **Numpy** |
-| **SciPy** | **Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** |
-| **Matplotlib** | **Seaborn** | **A/B-тесты** |  |  |
+| **Linux** | **Python 3** | **Git**| **Jupiter Notebook** | **PostgreSQL** | 
+| **MySQL** | **SQLite** | **DataLens** | **DBeaver** | **Redash** | 
+| **Pandas** | **Numpy** | **SciPy** | **Scikit-learn** | **Catboost** |
+| **LightGBM** | **XGBoost** | **Matplotlib** | **Seaborn** | **A/B-тесты** |
 
 ---
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <td>1</td>
   <td><a href = "https://github.com/egorumaev/2024-ab-tests-metrics">«Оценка результатов эксперимента на этапе планирования A/B-теста»</a></td>
   <td>на этапе планирования A/B-теста провести анализ соответствия плановых значений метрик теста и расчитанного размера выборки</td>
-  <td>Pandas, Numpy, Statsmodels, Tqdm</td>
+  <td>Pandas, Numpy, Matplotlib, Statsmodels, Tqdm</td>
   <td>Monte Carlo Method, A/B Test Calculator by Gleb Mikhaylov, Evan Miller Sample Size Calculator, LaTeX</td>
 </tr>
 
