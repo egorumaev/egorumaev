@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА</font>**
 
-* ["Linux: внедрение и расширенное администрирование ИТ-решений на базе отечественных операционных систем в государственных и коммерческих организациях"](https://tusur-courses.ru/catalog/sistemnoe-administrirovanie/linux-vnedrenie-i-rasshirennoe-administrirovanie "Образовательная программа") ([Томский государственный университет систем управления и радиоэлектроники](https://tusur.ru/ru "Официальный сайт"), Томск, Россия). Диплом о проф. переподготовке. 2024
+* ["Linux: внедрение и расширенное администрирование ИТ-решений на базе отечественных операционных систем в государственных и коммерческих организациях"](https://tusur-courses.ru/catalog/sistemnoe-administrirovanie/linux-vnedrenie-i-rasshirennoe-administrirovanie "Образовательная программа") ([Томский государственный университет систем управления и радиоэлектроники (ТУСУР)](https://tusur.ru/ru "Официальный сайт"), Томск, Россия). Диплом о проф. переподготовке. 2024
 
 * ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") ([Яндекс.Практикум](https://practicum.yandex.ru/ "Официальный сайт"), Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20RU.pdf "Ссылка на диплом") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20ENG.pdf "Ссылка на диплом"). 2022-2023
 
