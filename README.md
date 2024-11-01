@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 | **RegEx** | **Git**| **Jupiter Notebook** | **SQL** | **DataLens** |
 | **DBeaver** | **Redash** | **Pandas** | **Numpy** | **SciPy** | 
 |**Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** | **Matplotlib** |
-| **Seaborn** | **A/B-тесты** | **** | **** | **** |
+| **Seaborn** | **A/B-тесты** |  |  |  |
 
 ---
 
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/egorumaev/2024-remote-server-collecting-info">«Сбор информации об операционной системе удаленного сервера»</a></td>
   <td>с помощью протокола SSH подключиться к удаленному серверу и собрать информацию об операционной системе</td>
   <td></td>
-  <td>Linux, Bash, SSH, SCP</td>
+  <td>Linux (Astra Linux), Bash, SSH, SCP</td>
 </tr>
 
 <tr>
