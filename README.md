@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 | **RegEx** | **Git**| **Jupiter Notebook** | **SQL** | **DataLens** |
 | **DBeaver** | **Redash** | **Pandas** | **Numpy** | **SciPy** | 
 |**Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** | **Matplotlib** |
-| **Seaborn** | **A/B-тесты** |  |  |  |
+| **Seaborn** | **A/B-тесты** ||||
 
 ---
 
