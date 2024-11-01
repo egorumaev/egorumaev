@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <tr>
   <td>1</td>
-  <td><a href = "https://github.com/egorumaev/2024-custom-docker-image">«Создание Docker-контейнера на основе актуальной версии Docker-образа Ubuntu и собственного Dockerfile с загрузкой в репозиторий на Docker Hub»</a></td>
+  <td><a href = "https://github.com/egorumaev/2024-custom-docker-image">«Создание Docker-образа на основе актуальной версии Docker-образа Ubuntu и собственного Dockerfile с загрузкой в репозиторий на Docker Hub»</a></td>
   <td>создать собственный Docker-образ с последующей загрузкой в облачный репозиторий на Docker Hub</td>
   <td></td>
   <td>Linux (Astra Linux, Ubuntu), Bash, Vim, Docker, Docker Image, Dockerfile, Docker Hub</td>
