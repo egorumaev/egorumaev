@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 |:-----|:-----|:-----|:-----|:-----|
 | **Python 3** | **Linux** | **Astra Linux** | **Bash** | **Docker** |
 | **RegEx** | **Git**| **Jupiter Notebook** | **SQL** | **DataLens** |
-| **DBeaver** | **Redash** | **Pandas** | **Numpy** | **SciPy** | 
-|**Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** | **Matplotlib** |
-| **Seaborn** | **A/B-тесты** ||||
+| **pgAdmin** | **DBeaver** | **Redash** | **Pandas** | **Numpy** |  
+| **SciPy** |**Scikit-learn** | **Catboost** | **LightGBM** | **XGBoost** |
+| **Matplotlib** | **Seaborn** | **A/B-тесты** |  |  |
 
 ---
 
