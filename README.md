@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
-| **Python 3** | **SQL** | **Pandas** | **Numpy** | **Jupiter Notebook** |
-| **DataLens** | **Scikit-learn**| **Catboost** | **LightGBM** | **XGBoost** |
-| **Matplotlib** | **Seaborn** | **А/В-тесты** | **pgAdmin** | **DBeaver** |  
-| **Redash** |**SciPy** | **Linux** | **Astra Linux** | **Bash** |
-| **Docker** | **RegEx** | **Git** |  |  |
+| **Python 3** | **SQL** | **MS Excel** | **Pandas** | **Numpy** |
+| **Jupiter Notebook** | **DataLens** | **Scikit-learn**| **Catboost** | **LightGBM** |
+| **XGBoost** | **Matplotlib** | **Seaborn** | **А/В-тесты** | **pgAdmin** |
+| **DBeaver** | **Redash** |**SciPy** | **Linux** | **Astra Linux** |
+| **Bash** | **Docker** | **RegEx** | **Git** |  |
 
 ---
 
