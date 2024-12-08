@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
 | **Python 3** | **SQL** | **MS Excel** | **Pandas** | **Numpy** |
-| **Jupiter Notebook** | **DataLens** | **Scikit-learn**| **Catboost** | **LightGBM** |
-| **XGBoost** | **Matplotlib** | **Seaborn** | **А/В-тесты** | **pgAdmin** |
+| **Jupiter Notebook** | **Matplotlib** | **Seaborn** | **DataLens** | **Scikit-learn**|
+| **Catboost** | **LightGBM** | **XGBoost** | **А/В-тесты** | **pgAdmin** |
 | **DBeaver** | **Redash** |**SciPy** | **Linux** | **Astra Linux** |
 | **Bash** | **Docker** | **RegEx** | **Git** |  |
 
