@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 | **Matplotlib** | **Seaborn** | **DataLens** | **Scikit-learn**| **Catboost** |
 | **LightGBM** | **XGBoost** | **А/В-тесты** | **pgAdmin** | **DBeaver** |
 | **Redash** |**SciPy** | **Linux** | **Astra Linux** | **Bash** |
- **Docker** | **Регулярные выражения** | **Git** |  |  |
+ **Docker** | **RegEx** | **Git** |  |  |
 
 ---
 
