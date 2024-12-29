@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
 | **Python 3** | **SQL** | **MS Excel** | **Power Query** | **Power Pivot** |
-| **MS Power BI**| **Pandas** | **Numpy** | **Jupiter Notebook** | **classical ML** |
-| **Matplotlib** | **Seaborn** | **DataLens** | **Scikit-learn**| **Catboost** |
-| **LightGBM** | **XGBoost** | **А/В-тесты** | **pgAdmin** | **DBeaver** |
-| **Redash** |**SciPy** | **Linux** | **Astra Linux** | **Bash** |
- **Docker** | **RegEx** | **Git** |  |  |
+| **VBA** | **MS Power BI**| **Pandas** | **Numpy** | **Jupiter Notebook** |
+| **classical ML** | **Matplotlib** | **Seaborn** | **DataLens** | **Scikit-learn** |
+| **Catboost** | **LightGBM** | **XGBoost** | **А/В-тесты** | **pgAdmin** |
+| **DBeaver** | **Redash** |**SciPy** | **Linux** | **Astra Linux** |
+| **Bash** | **Docker** | **RegEx** | **Git** |  |
 
 ---
 
