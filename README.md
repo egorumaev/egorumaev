@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## **РЕЗЮМЕ**
-
-* [Резюме](https://github.com/egorumaev/cv-egorumaev/blob/main/CV_Egor_Yumaev.pdf "Ссылка на резюме")
 
 ---
 
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-## **НАВЫКИ**
+## **СТЕК**
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
