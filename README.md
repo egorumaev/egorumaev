@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 
 ---
 
-["Курсы, пройденные на портале STEPIK"](https://stepik.org/users/553414073/profile "Ссылка на личный профиль на сайте stepik.org")
-
----
-
 ## **СТЕК**
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
