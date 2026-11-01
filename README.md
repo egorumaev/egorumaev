@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 ## **КУРСЫ**
 
-* ["Аналитика и работа с данными (СУБД Greenplum)"](https://internarenadata.sapiens.solutions/) (Учебный центр Sapiens solutions, Москва, Россия). 2026
+* ["Аналитика и работа с данными (СУБД Greenplum)"](https://internarenadata.sapiens.solutions/) (Учебный центр [Sapiens solutions](https://sapiens.solutions/ "Официальный сайт"), Москва, Россия). 2026
 
-* ["Математика для анализа данных"](https://practicum.yandex.ru/math-for-da-ds/?from=catalog "Программа курса") (Яндекс.Практикум, Москва, Россия). Свидетельство: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2024%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf "Ссылка на свидетельство") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2024%20Math%20for%20DA%20and%20DS.pdf "Ссылка на свидетельство"). 2023-2024
+* ["Математика для анализа данных"](https://practicum.yandex.ru/math-for-da-ds/?from=catalog "Программа курса") ([Яндекс.Практикум](https://practicum.yandex.ru/ "Официальный сайт"), Москва, Россия). Свидетельство: [RU](https://github.com/egorumaev/cv-egorumaev/blob/main/2024%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf "Ссылка на свидетельство") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2024%20Math%20for%20DA%20and%20DS.pdf "Ссылка на свидетельство"). 2023-2024
 
-* ["Python: des fondamentaux aux concepts avancés du langage"](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/ "Программа курса") (Université Côte d'Azur, Ницца, Франция). Open badge: [FR](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20Python%20Cote-d-Azure.pdf "Ссылка на Open Badge"). 2023
+* ["Python: des fondamentaux aux concepts avancés du langage"](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/ "Программа курса") ([Université Côte d'Azur](https://univ-cotedazur.eu/ "Официальный сайт"), Ницца, Франция). Open badge: [FR](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20Python%20Cote-d-Azure.pdf "Ссылка на Open Badge"). 2023
 
-* ["Machine learning in Python with scikit-learn"](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ "Программа курса") (French National Research Institute for Digital Science and Technology (INRIA), Париж, Франция). Open badge: [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20INRIA%20ML%20Python%20sklearn.pdf "Ссылка на Open Badge"). 2023
+* ["Machine learning in Python with scikit-learn"](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ "Программа курса") ([French National Research Institute for Digital Science and Technology (INRIA)](https://www.inria.fr/fr "Официальный сайт"), Париж, Франция). Open badge: [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20Yumaev%20E.%20INRIA%20ML%20Python%20sklearn.pdf "Ссылка на Open Badge"). 2023
 
 ---
 
